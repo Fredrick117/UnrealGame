@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Joshua/GameWithCarl/UnrealGame/UnrealGame/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/Joshua/GameWithCarl/UnrealGame/UnrealGame/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/0G/U2FEWDGFBRMBB8F05B6M3W.uasset",
 				"D:/Gamedev/UnrealProjects/UnrealGame/UnrealGame/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
 			]
 		}
